@@ -34,12 +34,10 @@
 （这一段用于放置工作以外的、可证明你的能力的材料）
 
 ## 开源项目
-（对于程序员来讲，没有什么比Show me the code能有说服力了）
 
- - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
  - [building-floor](http://code.taobao.org/p/building-floor/src/trunk/)：杭州登宝大厦楼层出租
+ 
 # 技能清单
-
 以下均为我较熟练使用的技能
 
 - Web开发：java
